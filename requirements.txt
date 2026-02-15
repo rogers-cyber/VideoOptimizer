@@ -1,0 +1,5 @@
+# VideoOptimizer v2.0.1 – Production Edition
+# Python 3.9+ required
+
+ttkbootstrap>=1.10.1
+```
